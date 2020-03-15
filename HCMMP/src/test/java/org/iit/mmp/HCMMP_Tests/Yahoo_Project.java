@@ -13,7 +13,6 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class Yahoo_Project {
 	WebDriver driver;
 	
-	
 	 
 	@Test
 	
