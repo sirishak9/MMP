@@ -1,6 +1,6 @@
 package com.iit.mmp.mmpproject.tests;
 
-import org.iit.mmp.pages.LoginPage;
+import com.iit.mmp.mmpproject.pages.LoginPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
